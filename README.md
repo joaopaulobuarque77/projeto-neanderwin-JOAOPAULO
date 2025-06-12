@@ -1,4 +1,4 @@
-# Verificador de Par ou Ímpar — NeanderWin
+# Analisador de Números Pares e Ímpares — Projeto em NeanderWin
 
 # Descrição do Projeto
 Este projeto foi elaborado como parte das atividades da disciplina de Arquitetura Computacional, orientada pelo professor Alexsandro Henrique, no 1º semestre do curso de Análise e Desenvolvimento de Sistemas (ADS).
