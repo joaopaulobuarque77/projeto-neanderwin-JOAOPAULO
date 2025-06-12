@@ -12,16 +12,15 @@ Após a execução, o resultado é gravado na memória da seguinte forma:
 
 O exercício reforça conceitos fundamentais de processamento, controle de fluxo e manipulação de dados em baixo nível.
 
-0 → número par
-
-1 → número ímpar
+- `0` → número par  
+- `1` → número ímpar  
 
 # Funcionamento:
 A lógica do programa é baseada em subtrações consecutivas de 2 até que o valor seja inferior a 0. Com isso, determina-se a paridade do número.
 
 # Instruções de Execução:
 
-1. Faça o download do simulador NeanderWin:
+1. Faça o download simulador **NeanderWin**:  
    [Download Neander-X](https://sourceforge.net/projects/neander-x/files/)
 
 2. Abra o NeanderWin e carregue o arquivo verificador.asm.
@@ -37,7 +36,8 @@ Verifique o conteúdo da variável RESULTADO na janela de memória:
 1 → ímpar
 
 # Conteúdo do Repositório:
-verificador.asm → código-fonte do programa em Assembly.
+- `verificador.asm` → código-fonte do programa.  
+- `README.md` → documentação do projeto.
 
 README.md → arquivo com a documentação do projeto.
 
