@@ -20,14 +20,15 @@ O exercício reforça conceitos fundamentais de processamento, controle de fluxo
 A lógica do programa é baseada em subtrações consecutivas de 2 até que o valor seja inferior a 0. Com isso, determina-se a paridade do número.
 
 # Instruções de Execução:
-Faça o download do simulador NeanderWin:
+
+1. Faça o download do simulador NeanderWin:
    [Download Neander-X](https://sourceforge.net/projects/neander-x/files/)
 
-Abra o NeanderWin e carregue o arquivo verificador.asm.
+2. Abra o NeanderWin e carregue o arquivo verificador.asm.
 
-Compile o código-fonte utilizando a opção Compilar.
+3. Compile o código-fonte utilizando a opção Compilar.
 
-Clique em Run para iniciar a execução.
+4. Clique em Run para iniciar a execução.
 
 Verifique o conteúdo da variável RESULTADO na janela de memória:
 
