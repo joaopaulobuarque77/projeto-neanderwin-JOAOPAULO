@@ -41,9 +41,9 @@ verificador.asm → código-fonte do programa em Assembly.
 README.md → arquivo com a documentação do projeto.
 
 # Desenvolvedor
-João Paulo Fragoso Buarque de Barros 
-1º Semestre de Análise e Desenvolvimento de Sistemas (ADS)
-Professor Responsável: Alexsandro Henrique
+- João Paulo Fragoso Buarque de Barros 
+- 1º Semestre de Análise e Desenvolvimento de Sistemas (ADS)
+- Professor Responsável: Alexsandro Henrique
 
 # Considerações Finais
 - O projeto foi desenvolvido com base nos conteúdos apresentados em aula, reforçando o aprendizado prático de lógica computacional.
